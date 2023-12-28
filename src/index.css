@@ -16,6 +16,24 @@
   font-family: Source Sans Pro;
   font-size: 1.23456rem;
   font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-body-gold {
+  color: #ffd700;
+  font-family: Source Sans Pro;
+  font-size: 1.23456rem;
+  font-style: normal;
   font-weight: 600;
   line-height: normal;
+}
+
+.text-body-gold-link {
+  color: #ffd700;
+  font-family: Source Sans Pro;
+  font-size: 1.1rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.3;
 }

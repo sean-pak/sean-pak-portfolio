@@ -1,8 +1,8 @@
-import AboveFold from "@/components/above-fold";
+import AboveFold from "@/components/work-page/above-fold.tsx";
 
 const WorkPage = () => {
   return (
-    <div className="border-2 border-blue-500 w-full">
+    <div className="w-full">
       <AboveFold />
     </div>
   );
