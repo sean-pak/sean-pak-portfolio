@@ -2,7 +2,7 @@ import AboveFold from "@/components/work-page/above-fold.tsx";
 
 const WorkPage = () => {
   return (
-    <div className="w-full">
+    <div className="w-full h-full">
       <AboveFold />
     </div>
   );

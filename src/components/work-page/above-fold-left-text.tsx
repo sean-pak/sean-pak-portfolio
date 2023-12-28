@@ -1,9 +1,9 @@
 const AboveFoldLeftText = () => {
   return (
-    <div className="bg-slate-600 space-y-2 pt-[3rem]">
+    <div className="space-y-3 pt-[2.5rem]">
       <div className="text-h2">hi, i'm sean pak 👋🏻</div>
       <hr style={{ borderTop: "1px solid white" }} />
-      <div className="text-body space-y-1">
+      <div className="text-body space-y-1.5">
         <div className="flex space-x-2">
           <div>design + product + development at</div>
           <a
