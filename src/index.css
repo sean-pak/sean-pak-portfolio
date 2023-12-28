@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-h2 {
+  color: #fbfbfb;
+  font-family: Source Sans Pro;
+  font-size: 3.24rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.text-body {
+  color: #fbfbfb;
+  font-family: Source Sans Pro;
+  font-size: 1.23456rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
