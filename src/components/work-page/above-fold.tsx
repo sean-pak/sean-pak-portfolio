@@ -6,7 +6,7 @@ const AboveFold = () => {
     <div
       className="h-full"
       style={{
-        backgroundImage: `url("src/assets/Calvin-and-Hobbes-StarryNight.png")`,
+        backgroundImage: `url("docs/assets/Calvin-and-Hobbes-StarryNight.png")`,
         backgroundPosition: "center",
       }}
     >

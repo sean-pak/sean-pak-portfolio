@@ -2,7 +2,7 @@ const AboveFoldRightText = () => {
   return (
     <div className="h-60 w-[27rem] relative pb-10">
       <div className="absolute w-[8.75rem] h-full rounded-lg drop-shadow-md z-30 flex pb-6">
-        <img src="src/assets/Hero-Picture.png" alt="Photo of Sean Pak"></img>
+        <img src="docs/assets/Hero-Picture.png" alt="Photo of Sean Pak"></img>
       </div>
 
       <div className="absolute w-[25rem] h-[10rem] bg-[#1b1b1b] rounded-md z-20 left-8 top-20">
